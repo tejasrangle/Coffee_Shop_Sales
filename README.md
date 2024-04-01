@@ -4,7 +4,8 @@
 # Project Overview:
 This repository contains an Excel dashboard designed to analyze sales data for a coffee shop. The dashboard provides insights into various aspects of the coffee shop's sales performance, including revenue trends, product popularity, and customer demographics.
 
-
+## Dashboard
+![Dashboard_image](https://github.com/tejasrangle/Coffee_Shop_Sales/assets/110970662/6fdae3f4-8167-4f08-ae16-f1b380b2037c)
 
 ## Features:
 Revenue Analysis: Track sales revenue over time to identify trends and patterns.
